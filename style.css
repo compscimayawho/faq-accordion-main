@@ -28,7 +28,7 @@ body {
 .accordion {
     background-color: var(--white);
     width: 18rem;
-    padding: clamp(0.7rem, 1rem, 1.5rem);
+    padding: 1rem;
     border-radius: var(--border-radius-mobile);
 }
 
