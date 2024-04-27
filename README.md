@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ Accordion Solution
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](#).
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub).
 
 ## Table of contents
 
@@ -20,4 +20,4 @@ I began by outlining the component structure in HTML. Then, I started writing th
 
 ### Links
 
-- Live Site URL: [Live Site](#)
+- Live Site URL: [Live Site](https://compscimayawho.github.io/faq-accordion-main/)
